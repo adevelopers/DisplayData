@@ -2,6 +2,7 @@
 Struct for VC
 
 ## How to use
+In a presenter
 
 ```swift
     
