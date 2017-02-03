@@ -7,7 +7,6 @@ In a presenter
 ```swift
     
     func updateUIWith(_ items: [Deal]) {
-        
         let dealsDisplayData = dealsDisplayDataWith(items)
         view.displayDeals(dealsDisplayData)
     }
