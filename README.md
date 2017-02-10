@@ -1,5 +1,5 @@
 # DisplayData
-Struct for VC
+Viper ViewModel Example
 
 ## How to use
 In a presenter
